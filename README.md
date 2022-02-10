@@ -1,7 +1,7 @@
 # Anomaly Detection in Images
 
 <center>
-  <image src="https://media.giphy.com/media/f73urdknsWliIEZiDw/giphy.gif" width="800" height="400"/><br><br>
+  <image src="https://media.giphy.com/media/f73urdknsWliIEZiDw/giphy.gif" width="900" height="600"/><br><br>
 </center>
 
 ### The Mission
@@ -39,9 +39,9 @@ A threshold needs to be set for the index. If the index for an image is above th
 
 ### Visuals
 
+![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/img_2.png?raw=true) 
 ![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/img_1.png?raw=true) 
 ![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/img_3.png?raw=true)
-![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/img_2.png?raw=true) 
 
 ### F-1 score
 
