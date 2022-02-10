@@ -1,6 +1,6 @@
 # Anomaly Detection in Images
 <center>
-  <iframe src="https://giphy.com/embed/f73urdknsWliIEZiDw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/photoshop-after-effects-raphael-vangelis-f73urdknsWliIEZiDw">via GIPHY</a></p><br><br>
+ ![](https://media.giphy.com/media/elsgByhRs2hmfIHQoe/giphy.gif)
 </center>
 
 ### The Mission
@@ -14,7 +14,7 @@ The project is based on the use case by [Faktion](https://www.faktion.com/) and 
 The goal is to maximize the F1 score.
 
 <center>
-  <image src="https://miro.medium.com/max/1400/1*iXh-laAdl3gcddkHpJxnLw.png" width="600" height="200"/><br><br>
+  <image src="https://miro.medium.com/max/1400/1*iXh-laAdl3gcddkHpJxnLw.png" width="700" height="200"/><br><br>
 </center>
 
 ### Dataset
