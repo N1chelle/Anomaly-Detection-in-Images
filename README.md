@@ -37,7 +37,7 @@ A threshold needs to be set for the index. If the index for an image is above th
 
 ### Visuals
 
-![](img_2.png) 
+![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/img_2.png?raw=true) 
 ![](img_1.png) 
 ![](img_3.png)
 
