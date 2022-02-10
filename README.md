@@ -1,7 +1,7 @@
 # Anomaly Detection in Images
 
 <center>
-  <image src="https://media.giphy.com/media/f73urdknsWliIEZiDw/giphy.gif" width="900" height="600"/><br><br>
+  <image src="https://media.giphy.com/media/f73urdknsWliIEZiDw/giphy.gif" width="800" height="500"/><br><br>
 </center>
 
 ### The Mission
