@@ -1,14 +1,14 @@
 # Anomaly Detection in Images
 
 <center>
-  <image src="(https://media.giphy.com/media/f73urdknsWliIEZiDw/giphy.gif" width="700" height="200"/><br><br>
+  <image src="https://media.giphy.com/media/f73urdknsWliIEZiDw/giphy.gif" width="800" height="400"/><br><br>
 </center>
 
 ### The Mission
 
 The project is based on the use case by [Faktion](https://www.faktion.com/) and it is to find rare anomalies in dice images through any of the computer vision approaches.
 
-![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/img_29052_cropped.jpg?raw=true) ![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/img_29214_cropped.jpg?raw=true) ![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/img_29624_cropped.jpg?raw=true) ![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/img_25064_cropped.jpg?raw=true) ![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/17_11_21_anomalies_017.png?raw=true) ![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/img_25199_cropped.jpg?raw=true) ![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/img_25918_cropped.jpg?raw=true)
+![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/img_25199_cropped.jpg?raw=true) ![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/img_29052_cropped.jpg?raw=true) ![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/img_29214_cropped.jpg?raw=true) ![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/img_29624_cropped.jpg?raw=true) ![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/img_25064_cropped.jpg?raw=true) ![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/17_11_21_anomalies_017.png?raw=true) ![](https://github.com/N1chelle/Anomaly-Detection-in-Images/blob/main/Images/img_25918_cropped.jpg?raw=true)
 
 
 ### The Goal
@@ -16,7 +16,7 @@ The project is based on the use case by [Faktion](https://www.faktion.com/) and 
 The goal is to maximize the F1 score.
 
 <center>
-  <image src="https://miro.medium.com/max/1400/1*iXh-laAdl3gcddkHpJxnLw.png" width="700" height="200"/><br><br>
+  <image src="https://miro.medium.com/max/1400/1*iXh-laAdl3gcddkHpJxnLw.png" width="800" height="200"/><br><br>
 </center>
 
 ### Dataset
