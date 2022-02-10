@@ -1,7 +1,7 @@
 # Anomaly Detection in Images
-<center>
- ![](https://media.giphy.com/media/elsgByhRs2hmfIHQoe/giphy.gif)
-</center>
+
+![Dice_gif](https://media.giphy.com/media/f73urdknsWliIEZiDw/giphy.gif)
+
 
 ### The Mission
 
